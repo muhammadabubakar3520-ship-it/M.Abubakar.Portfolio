@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
 import { motion } from "framer-motion";
 
 const experience = [
@@ -10,6 +10,29 @@ const experience = [
       "Support IT operations and troubleshoot hardware, software, and network-related issues across departments.",
       "Assist with system administration, user support, and IT asset management.",
       "Collaborate with senior IT professionals to implement and maintain enterprise IT infrastructure.",
+    ],
+  },
+  {
+    role: "Full-Stack Developer – Gift Inventory Management System",
+    company: "Independent Project",
+    period: "2026",
+    points: [
+      "Developed and deployed a web-based gift inventory management system to manage inventory records and promoter-related data.",
+      "Implemented promoter login functionality and secure password-hashing practices for authentication.",
+      "Integrated image uploads and database storage using MongoDB Atlas.",
+      "Built and deployed the application using a modern web development stack and Vercel.",
+    ],
+  },
+  {
+    role: "Full-Stack Developer – IT Help Desk Management System",
+    company: "Independent Project",
+    period: "2026",
+    points: [
+      "Designed and developed a full-stack IT help desk application using React.js, Vite, Tailwind CSS, Node.js, and REST APIs.",
+      "Implemented role-based access for employees, IT engineers, and administrators.",
+      "Developed ticket creation, assignment, status tracking, comments, and ticket lifecycle management features.",
+      "Built dashboards and administrative functionality to support IT operations and ticket management.",
+      "Deployed the frontend on Vercel and configured the backend API using Render.",
     ],
   },
   {
