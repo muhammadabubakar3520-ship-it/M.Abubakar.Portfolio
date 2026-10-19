@@ -58,8 +58,7 @@ function Contact() {
           transition={{ duration: 0.5 }}
         >
           <p>
-            Feel free to reach out for collaborations, internship
-            opportunities, or just to say hello.
+            Open to full-time roles, job opportunities, and collaborative projects. Let's connect!
           </p>
 
           <div className="contact-details">
